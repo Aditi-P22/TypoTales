@@ -31,6 +31,13 @@
 
 #### Blog Details Page
 ![Image](https://github.com/user-attachments/assets/1bbde8f5-bf43-466b-ab3b-d4fb9293bf68)
+
+#### Mobile View
+#### 1) Closed Sidebar 
+![Image](https://github.com/user-attachments/assets/cb1aff6d-c702-45d0-9b27-80f2871e229f)
+
+#### 2) Open Sidebar 
+![Image](https://github.com/user-attachments/assets/9ab71457-7135-4d96-82bb-7a3efd4f127f)
 ---
 
 ## 🛠️ Tech Stack
