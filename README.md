@@ -3,6 +3,8 @@
 **TypoTales** is a minimal blog listing web application built with **Next.js** and styled using **Tailwind CSS**. It allows users to browse blogs, view blog details, and add new blogs. The blogs are stored locally using a simple JSON file.
 
 ---
+## Demo Video
+https://github.com/user-attachments/assets/b7c9d948-30be-4fdb-8429-265cc04127d2
 
 ## 🚀 Features
 
